@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+```JSON Object
+
+Diego = {
+    "name": "Diego",
+    "surname": "Rodriguez",
+    "country": "Spain",
+    "codes": ["PHP", "JS", "HTML", "CSS"],
+    "frameworks": ["Laravel", "Symfony", "Angular"]
+}
+```
 <!--
 **djklen306/djklen306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
